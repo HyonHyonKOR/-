@@ -1,0 +1,12 @@
+public class Casting {
+
+	public static void main(String[] args) {
+		char charValue=15534;
+	    System.out.println(charValue);
+
+	    int intValue= 65;
+	    charValue=(char)intValue;
+	    System.out.println(charValue);
+		}		
+
+	}
