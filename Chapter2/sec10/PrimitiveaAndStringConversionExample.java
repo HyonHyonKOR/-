@@ -13,9 +13,11 @@ public class PrimitiveaAndStringConversionExample {
 		String str1 = String.valueOf(10);
 		String str2 = String.valueOf(3.14);
 		String str3 = String.valueOf(true);
+		char char1  = str3.charAt(0);
 		
 		System.out.println("value 4: " + str1.getClass());
 		System.out.println("value 5: " + str2.getClass());
 		System.out.println("value 6: " + str3.getClass());
+ 		System.out.println("value 7: " + char1);
 	}
 }
