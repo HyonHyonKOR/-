@@ -7,12 +7,12 @@ This is a record what i learned by myself from textbook which named <Strong>"Thi
 </p>
 
 <p>
-PART 1 JAVA Basic(JAVA基礎、자바 기초)  
+<strong>PART 1 JAVA Basic(JAVA基礎、자바 기초) </strong> 
 Chapter 1 =  JAVA (what is java, installation, eclipse)<br>
 Chapter 2 =  Variable (変数, 변수) <br>
 Chapter 3 =  Operator (演算子、연산자)<br>
 Chapter 4 =  Conditiona Statement&Loop Statement (条件文＆反復文, 조건문과 반복문) </p>
 <p>
-PART 2 Object Oriented Programming <br>
+<strong>PART 2 Object Oriented Programming <br> </strong>
 Chapter 5 = Reference Type (参照型, 참조 타입)
 </p>
