@@ -7,7 +7,7 @@ This is a record what i learned by myself from textbook which named <Strong>"Thi
 </p>
 
 <p>
-<strong>PART 1 JAVA Basic(JAVA基礎、자바 기초) </strong> 
+<strong>PART 1 JAVA Basic(JAVA基礎、자바 기초) </strong> <br>
 Chapter 1 =  JAVA (what is java, installation, eclipse)<br>
 Chapter 2 =  Variable (変数, 변수) <br>
 Chapter 3 =  Operator (演算子、연산자)<br>
