@@ -14,6 +14,6 @@ Chapter 3 =  Operator (演算子、연산자)<br>
 Chapter 4 =  Conditiona Statement&Loop Statement (条件文＆反復文, 조건문과 반복문) </p>
 <p>
 <strong>PART 2 Object Oriented Programming <br> </strong>
-Chapter 5 = Reference Type (参照型, 참조 타입)
+Chapter 5 = Reference Type (参照型, 참조 타입)<br>
 Chapter 6 = Class(クラス, 클래스)  
 </p>
