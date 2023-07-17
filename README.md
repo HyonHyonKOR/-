@@ -17,4 +17,5 @@ Chapter 4 =  Conditiona Statement&Loop Statement (条件文＆反復文, 조건�
 Chapter 5 = Reference Type (参照型, 참조 타입)<br>
 Chapter 6 = Class(クラス, 클래스) <br>
 Chapter 7 = Inheritance (継承, 상속) <br>  
+Chapter 8 = Interface (インタフェース, 인터페이스) <br>    
 </p>
